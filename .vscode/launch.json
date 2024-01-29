@@ -9,7 +9,7 @@
             "pathMappings": {
                 "/var/www/html": "${workspaceFolder}"
             },
-            "hostname": "localhost",
+            "hostname": "0.0.0.0",
             "ignore": ["**/vendor/**/*.php"],
             "xdebugSettings": {
                 "max_data": 65536,
